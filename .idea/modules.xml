@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenQA7-31c2e0411623a87fd9648297eac1297f762c942f/MavenQA7.iml" filepath="$PROJECT_DIR$/MavenQA7-31c2e0411623a87fd9648297eac1297f762c942f/MavenQA7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MavenQA7New.iml" filepath="$PROJECT_DIR$/.idea/MavenQA7New.iml" />
+    </modules>
+  </component>
+</project>
